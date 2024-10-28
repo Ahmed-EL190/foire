@@ -1,0 +1,62 @@
+body {
+    overflow-x: hidden;
+}
+
+.gifts {
+    /* margin-top: 1000px; */
+}
+
+.Furnish {
+    text-align: center;
+}
+
+.img17 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+}
+
+.img177 {
+    transition: 0.5s ease;
+}
+
+.img177:hover {
+    transform: scale(1.1);
+}
+
+.img188 {
+    transition: 0.5s ease;
+}
+
+.img188:hover {
+    transform: scale(1.1);
+}
+
+.img199 {
+    transition: 0.5s ease;
+}
+
+.img199:hover {
+    transform: scale(1.1);
+}
+
+.view-all {
+    border-radius: 20px;
+    border-style: 0.1 solid;
+    width: 180px;
+    height: 40px;
+    padding: 5px;
+    margin-left: 10px;
+    background-color: #ece9e1;
+    transition: 0.5s ease;
+    margin-left: 660px;
+    margin-top: 30px;
+}
+
+.view-all:hover {
+    transform: scale(1.09);
+    background-size: cover;
+}
